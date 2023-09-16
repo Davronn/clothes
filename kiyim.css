@@ -1,0 +1,40 @@
+.orqafon {
+  background-color: rgb(20, 170, 110);
+}
+
+.orqafon2 {
+  display: flex;
+  align-items: center;
+  padding: 150px;
+}
+
+.kiyim {
+  background: white;
+  width: 150%;
+  height: 400px;
+  padding-left: 85px;
+  padding-top: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+}
+
+.rasm1 {
+  width: 200px;
+  height: 200px;
+}
+.rasm2 {
+  width: 200px;
+  height: 200px;
+}
+.rasm3 {
+  width: 200px;
+  height: 200px;
+}
+
+.t {
+  color: yellow;
+}
+
+.c {
+  color: rgb(137, 0, 0);
+}
